@@ -10,4 +10,5 @@ Data Engineer especializado en Microsoft Fabric. Me encanta la tecnología y dis
 
 ## 📊 Estadísticas de GitHub
 
-<p align="left"> <img src="https://github-stats-extended.vercel.app/api?username=kilianbs&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estadísticas de GitHub de kilianbs" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kilianbs&hide_border=true" alt="Racha de commits de kilianbs" height="165"/> </p> <p align="left"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kilianbs&layout=compact&hide_border=true" alt="Lenguajes más usados por kilianbs"/> </p>
+<img src="https://ghstats.dev/api/card?username=kilianbs&hide_title=true&custom_title=My+GitHub+Stats&hide=issues%2Cavg%2Cactive_day%2Cgrade" alt="GitHub Stats Card" /> 
+<img src="https://ghstats.dev/api/langs?username=kilianbs&hide_title=true&custom_title=My+GitHub+Stats&layout=grid" alt="Top Languages" />
